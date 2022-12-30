@@ -3,8 +3,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nixman)](https://github.com/nixman/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nixman&show_icons=true&theme=transparent)
-[![YAS](https://github-readme-stats.vercel.app/api/pin/?username=nixman&repo=overloaded_function)](https://github.com/anuraghazra/github-readme-stats)
-[![TinyArgs](https://github-readme-stats.vercel.app/api/pin/?username=nixman&repo=tiny-args)](https://github.com/anuraghazra/github-readme-stats)
-[![StdSignals](https://github-readme-stats.vercel.app/api/pin/?username=nixman&repo=std-signals)](https://github.com/anuraghazra/github-readme-stats)
-[![CSProt](https://github-readme-stats.vercel.app/api/pin/?username=nixman&repo=csprot)](https://github.com/anuraghazra/github-readme-stats)
-[![MallocStat](https://github-readme-stats.vercel.app/api/pin/?username=nixman&repo=malloc-stat)](https://github.com/anuraghazra/github-readme-stats)
+[![Overloaded](https://github-readme-stats.vercel.app/api/pin/?username=nixman&repo=overloaded_function)](https://github.com/nixman/overloaded_function)
+[![TinyArgs](https://github-readme-stats.vercel.app/api/pin/?username=nixman&repo=tiny-args)](https://github.com/nixman/tiny-args)
+[![StdSignals](https://github-readme-stats.vercel.app/api/pin/?username=nixman&repo=std-signals)](https://github.com/nixman/std-signals)
+[![CSProt](https://github-readme-stats.vercel.app/api/pin/?username=nixman&repo=csprot)](https://github.com/nixman/csprot)
+[![MallocStat](https://github-readme-stats.vercel.app/api/pin/?username=nixman&repo=malloc-stat)](https://github.com/nixman/malloc-stat)
