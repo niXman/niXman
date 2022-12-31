@@ -1,4 +1,4 @@
-- I’m currently working on [CmdArgs](https://github.com/nixman/cmdargs), [TinyArgs](https://github.com/nixman/tiny-args), [FlatJson](https://github.com/nixman/flatjson) (optimization/refactoring/rethinking)
+- I’m currently working on [FlatJson](https://github.com/nixman/flatjson) (optimization/refactoring/rethinking)
 - I’m currently learning C++20
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nixman)](https://github.com/nixman/github-readme-stats)
