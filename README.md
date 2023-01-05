@@ -8,4 +8,5 @@
 [![TinyArgs](https://github-readme-stats.vercel.app/api/pin/?username=nixman&repo=tiny-args)](https://github.com/nixman/tiny-args)
 [![CSProt](https://github-readme-stats.vercel.app/api/pin/?username=nixman&repo=csprot)](https://github.com/nixman/csprot)
 [![StdSignals](https://github-readme-stats.vercel.app/api/pin/?username=nixman&repo=std-signals)](https://github.com/nixman/std-signals)
+[![StaticIf](https://github-readme-stats.vercel.app/api/pin/?username=nixman&repo=static_if)](https://github.com/nixman/static_if)
 [![MallocStat](https://github-readme-stats.vercel.app/api/pin/?username=nixman&repo=malloc-stat)](https://github.com/nixman/malloc-stat)
