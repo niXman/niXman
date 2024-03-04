@@ -10,3 +10,4 @@
 [![MinGW-Builds-Binaries](https://github-readme-stats.vercel.app/api/pin/?username=nixman&repo=mingw-builds-binaries)](https://github.com/nixman/mingw-builds-binaries)
 [![FlatJSON](https://github-readme-stats.vercel.app/api/pin/?username=nixman&repo=flatjson)](https://github.com/nixman/flatjson)
 [![CSProt](https://github-readme-stats.vercel.app/api/pin/?username=nixman&repo=csprot)](https://github.com/nixman/csprot)
+[![CTMap](https://github-readme-stats.vercel.app/api/pin/?username=nixman&repo=ctmap)](https://github.com/nixman/ctmap)
