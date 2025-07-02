@@ -1,5 +1,5 @@
 - I’m currently working on [FlatJson](https://github.com/nixman/flatjson) (optimization/refactoring/rethinking)
-- I’m currently learning C++20
+- I’m currently learning C++26
 - I take orders for software development using C++ in the following areas: network programming, distributed services, data processing, video processing, video streaming, profiling/optimization and re-architect of existing software
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nixman)](https://github.com/nixman/github-readme-stats)
